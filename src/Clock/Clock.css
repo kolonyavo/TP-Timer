@@ -1,0 +1,49 @@
+.clock {
+    width: 100vw;
+    height: 60vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000;
+    color: #00f001;
+    font-family: "Orbitron", sans-serif;
+    font-size: 6rem;
+    margin-top: -4%;
+  }
+
+h1{
+  position: absolute;
+  margin-left: 45%;
+  padding-top: 5%;
+  color:white;
+  font-size: xx-large;
+  position: relative
+}
+
+button{
+    position: absolute;
+    margin-left: 45%;
+    margin-top: 5%;
+    color: dark;
+    font-size: x-large;
+}
+
+.btn1{
+    position: absolute;
+    margin-left: -20%;
+    margin-top: 15%;
+    color: dark;
+    font-size: x-large;
+}
+
+.btn2{
+  position: absolute;
+  margin-left: 20%;
+  margin-top: 15%;
+  color: dark;
+  font-size: x-large;
+}
+
+.tik{
+  color : white;
+}
